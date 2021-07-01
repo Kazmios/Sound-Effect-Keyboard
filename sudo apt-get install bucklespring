@@ -1,0 +1,9 @@
+bucklespring keyboard sound
+
+Copyright 2016 Ico Doornekamp
+
+This project emulates the sound of my old faithful IBM Model-M space saver bucklespring keyboard while typing on my notebook, mainly for the purpose of annoying the hell out of my coworkers.
+
+Model M Buckle
+
+Bucklespring runs as a background process and plays back the sound of each key pressed and released on your keyboard, just as if you were using an IBM Model-M. The sound of each key has carefully been sampled, and is played back while simulating the proper distance and direction for a realistic 3D sound palette of pure nostalgic bliss.
